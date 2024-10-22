@@ -1,0 +1,52 @@
+Request for Proposal (RFP)
+
+Project Title: Implementation of a Claims Management System
+
+Date Issued: 10/21/2024
+
+Response Due Date: 10/30/2024
+
+1. Introduction
+
+ICEA LION is seeking proposals from qualified vendors to implement a Claims Management System that enhances our efficiency, reduces processing time, and improves customer satisfaction in handling claims.
+
+2. Background
+
+ICEA LION has been in the insurance industry for over 10 years, providing innovative solutions to meet our clients’ needs. As we continue to expand, we aim to modernize our claims processing system to ensure seamless operations and improved service delivery.
+
+3. Project Scope
+
+The proposed system should include the following features:
+
+Claims Submission: A user-friendly interface for claim submissions by policyholders.
+Claims Processing: Automated workflows for processing claims, including approvals and payments.
+Reporting and Analytics: Comprehensive reporting tools to track claims performance and analytics for decision-making.
+Integration: Ability to integrate with existing systems and APIs.
+4. Proposal Requirements
+
+Vendors should include the following in their proposal:
+
+Company Overview: Brief description of your company, including experience in the insurance sector.
+Technical Approach: Detailed explanation of the proposed solution, including technologies to be used.
+Project Timeline: Estimated timeline for the implementation of the system.
+Cost Proposal: A detailed breakdown of costs associated with the project.
+References: At least two references from similar projects completed within the last three years.
+5. Submission Guidelines
+
+Proposals must be submitted electronically in PDF format to icealion@gmail.com by the response due date mentioned above. Late submissions may not be considered.
+
+6. Evaluation Criteria
+
+Proposals will be evaluated based on the following criteria:
+
+Compliance with the RFP requirements
+Quality and feasibility of the proposed solution
+Vendor's experience and qualifications
+Cost-effectiveness
+7. Questions
+
+For any questions regarding this RFP, please contact:
+
+Shikoli
+Director
+ICEA lION

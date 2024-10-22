@@ -16,7 +16,7 @@ This project contains AI agents designed to automate email personalization and R
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo/ai_agents.git
+    git clone https://github.com/turnkeyafrica/turnkeyGrokAgents.git
     ```
 
 2. Navigate into the project directory:
